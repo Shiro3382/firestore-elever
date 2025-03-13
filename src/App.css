@@ -97,5 +97,5 @@ button {
 .buttons {
   display: flex;
   justify-content: flex-end;
-  width: 200px; /* Fixed width for button area */
+  width: 200px;
 }
